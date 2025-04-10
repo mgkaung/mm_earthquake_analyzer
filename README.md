@@ -37,6 +37,3 @@ A Python script that fetches earthquake data from the Myanmar Earthquake API and
 ## Run the script
    ```bash
    python plot.py
-
-
-  
